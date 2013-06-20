@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="fanart.weather.com" name="Weather.com icons" version="1.0.0" provider-name="nuka1195">
+    <extension point="xbmc.fanart" library="media"/>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Weather conditions and moon phases icons for weather.com.</summary>
+        <description lang="en">Weather conditions and moon phases icons for weather.com.</description>
+    </extension>
+</addon>
